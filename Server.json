@@ -19,6 +19,26 @@
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
 "Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
+  ,
+  "beinsport":
+
+[{
+"Jinterstitial": "ca-app-pub-5971731440540806/2067949237",
+"Jbanner": "ca-app-pub-5971731440540806/5508500798",
+"nativeAds": "ca-app-pub-5971731440540806/9256174115",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "1181683428920913_11816834922542340",
+"FB_Interstitial": "1181683428920913_11816283488920907",
+"FB_nativeAds": "1181683428920913_11821683495587573",
+"AdsType": "admob",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://bit.ly/3tVNvrv",
+"JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",
+"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"Use_Token": "no",
+"URL_indice": "/mono.m3u8"
 
 }]
 
