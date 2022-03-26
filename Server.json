@@ -3,9 +3,9 @@
 	"Msnbc_zs":
 
 		[{
-			"Jinterstitial": "ca-app-pub-5971731440540806/2067949237",
-			"Jbanner": "ca-app-pub-5971731440540806/5508500798",
-			"nativeAds": "ca-app-pub-5971731440540806/9256174115",
+			"Jinterstitial": "ca-app-pub-5971731440540806/4859158989",
+			"Jbanner": "ca-app-pub-5971731440540806/2424567337",
+			"nativeAds": "ca-app-pub-5971731440540806/6823456270",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "1181683428920913_11816834922542340",
@@ -16,9 +16,9 @@
 			"ActivitySwitch": "main",
 			"URLtoLunch": "https://bit.ly/3tVNvrv",
 			"JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",
-			"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+			"URL_Token": "https://planetnews.com/live/politics.html",
 			"Use_Token": "yes",
-			"URL_indice": "/mono.m3u8"
+			"URL_indice": "/index.m3u8"
 		}],
 	"beinsport":
 
