@@ -40,6 +40,41 @@
 			"Use_Token": "no",
 			"URL_indice": "/mono.m3u8"
 
-		}]
+		}],
+		"MSNBC_ZA":
+
+[{
+"Jinterstitial": "ca-app-pub-5971731440540806/4859158989",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-5971731440540806/2424567337",
+"nativeAds": "ca-app-pub-5971731440540806/6823456270",
+"admob_app_id": "ca-app-pub-5441480127903791~7812500393",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "332631348711174_332631395377836",
+"FB_Interstitial": "332631348711174_332631405377835",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "332631348711174_332631392044503",
+"Mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+"Mopub_interstitial": "24534e1901884e398f1253216226017e",
+"Mopub_native": "11a17b188668469fb0412708c3d16813",
+"Mopub_Appid": "11a17b188668469fb0412708c3d16813",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
+"JtvURL": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596",
+"URL_Token": "https://planetnews.com/live/politics.html",
+"Use_Token": "yes",
+"URL_indice": "/index.m3u8"
+
+
+}]
 
 }
