@@ -72,9 +72,9 @@
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",
-"URL_Token": "https://planetnews.com/live/politics.html",
+"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
 "Use_Token": "yes",
-"URL_indice": "/index.m3u8"
+"URL_indice": "/mono.m3u8"
 
 
 }]
